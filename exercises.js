@@ -52,11 +52,11 @@ console.log(planets[6]);
 /*7. Variables with Array for its value.
 Declare a variable named india and assign the value of 3 popular tourist attractions.  
 Console log the variable.*/
-
+var india = ["Goa", "Mumbai", "Jaipur"];
+console.log(india);
 /*8. Adding new elements to an array.
 Add another popular tourist attraction to the india variable from position 1 of the index.
 (hint, it is not the push() method). Console log the variable.*/
-
 /*9. Removing the last element from an array.
 Using the same india variable, remove the last element from the array. Console log the variable. */
 
